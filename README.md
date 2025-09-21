@@ -1,4 +1,4 @@
-## INSTALLTION 
+## INSTALLATION 
 `` git clone https://github.com/aadi755/nuke-bot/ ``
 
 
