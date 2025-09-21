@@ -1,9 +1,14 @@
-## INSTALLATION 
-``` git clone https://github.com/aadi755/nuke-bot/ ```
-
-
-``` python -m pip install -r requirements.txt ```
+## INSTALLATION
+```git clone https://github.com/aadi755/nuke-bot/ ```
 
 
 
-``` python3 vip.py ```
+```cd nuke-bot ```
+
+
+
+```python3 -m pip install -r requirements.txt ```
+
+
+
+```python3 vip.py ```
